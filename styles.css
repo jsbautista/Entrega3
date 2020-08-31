@@ -1,0 +1,30 @@
+.banner , .foot {
+    width:100%;
+    height:100px;
+    background-color: chocolate;
+  }
+  .banner h1 {
+    color:white;
+    text-shadow:2px 2px #333;
+  }
+ img{
+     width: 100%;
+     height: 100%;
+ }
+ 
+ .leftme{
+     background-color: orange;
+ }
+  .MC1, .MC2, .MC3{
+      background-color: burlywood;
+  }
+  .imgim{
+      background-color: blue;
+
+  }
+  .imgpa{
+      background-color: crimson;
+  }
+  .menutp{
+      background-color: brown;
+  }
